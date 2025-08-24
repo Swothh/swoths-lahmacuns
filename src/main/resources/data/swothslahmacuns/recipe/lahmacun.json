@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smelting",
+    "category": "food",
+    "cookingtime": 200,
+    "experience": 0.35,
+    "ingredient": {
+        "item": "swothslahmacuns:raw_lahmacun"
+    },
+    "result": {
+        "id": "swothslahmacuns:lahmacun",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_terracotta"
+        },
+        "Y": {
+            "item": "minecraft:iron_nugget"
+        },
+        "X": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "pattern": [
+        "  X",
+        " XY",
+        "#Y "
+    ],
+    "result": {
+        "count": 1,
+        "id": "swothslahmacuns:knife"
+    }
+}

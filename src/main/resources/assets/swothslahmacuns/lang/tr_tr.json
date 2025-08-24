@@ -1,0 +1,20 @@
+{
+  "itemGroup.swothslahmacuns.main_tab": "swoth'un Lahmacunları",
+
+  "item.swothslahmacuns.lahmacun": "Lahmacun",
+  "item.swothslahmacuns.rolled_lahmacun": "Dürüm Lahmacun",
+  "item.swothslahmacuns.raw_lahmacun": "Çiğ Lahmacun",
+  "item.swothslahmacuns.minced_meat": "Lahmacun Harcı",
+  "item.swothslahmacuns.knife": "Bıçak",
+  "item.swothslahmacuns.flour": "Un",
+  "item.swothslahmacuns.roller": "Merdane",
+  "item.swothslahmacuns.tomato": "Domates",
+  "item.swothslahmacuns.onion": "Soğan",
+  "item.swothslahmacuns.dough": "Lahmacun Hamuru",
+  "item.swothslahmacuns.rolled_dough": "Açılmış Hamur",
+  "item.swothslahmacuns.mega_lahmacun": "Mega Lahmacun",
+
+  "tooltip.swothslahmacuns.lahmacun": "Geleneksel bir Türk yemeği.",
+  "tooltip.swothslahmacuns.rolled_lahmacun": "Geleneksel... fakat domates ve soğana sarılmış halde.",
+  "tooltip.swothslahmacuns.mega_lahmacun": "Sadece ama sadece 3 katı fiyatına 4 kat lezzet!"
+}

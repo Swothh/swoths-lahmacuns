@@ -1,0 +1,20 @@
+{
+  "itemGroup.swothslahmacuns.main_tab": "swoth's Lahmacuns",
+
+  "item.swothslahmacuns.lahmacun": "Lahmacun",
+  "item.swothslahmacuns.rolled_lahmacun": "Rolled Lahmacun",
+  "item.swothslahmacuns.raw_lahmacun": "Raw Lahmacun",
+  "item.swothslahmacuns.minced_meat": "Minced Meat",
+  "item.swothslahmacuns.knife": "Knife",
+  "item.swothslahmacuns.flour": "Flour",
+  "item.swothslahmacuns.roller": "Roller",
+  "item.swothslahmacuns.tomato": "Tomato",
+  "item.swothslahmacuns.onion": "Onion",
+  "item.swothslahmacuns.dough": "Dough",
+  "item.swothslahmacuns.rolled_dough": "Rolled Dough",
+  "item.swothslahmacuns.mega_lahmacun": "Mega Lahmacun",
+
+  "tooltip.swothslahmacuns.lahmacun": "A traditional Turkish dish.",
+  "tooltip.swothslahmacuns.rolled_lahmacun": "Traditional but wrapped with tomato and onion.",
+  "tooltip.swothslahmacuns.mega_lahmacun": "Would you like to eat four times as much for three times the price?"
+}

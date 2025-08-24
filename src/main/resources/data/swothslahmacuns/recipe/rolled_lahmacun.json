@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "swothslahmacuns:lahmacun"
+        },
+        {
+            "item": "swothslahmacuns:tomato"
+        },
+        {
+            "item": "swothslahmacuns:onion"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "swothslahmacuns:rolled_lahmacun"
+    }
+}
