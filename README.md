@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/B2p4DNwr/LAHMACUNmod.png" width="64">
 
-swoth's Lahmacuns
+swoth's Lahmacuns [1.21.1+] [NeoForge]
 =======
 
 Features:
